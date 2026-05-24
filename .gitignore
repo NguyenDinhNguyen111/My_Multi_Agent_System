@@ -1,0 +1,27 @@
+# Python & Môi trường ảo
+__pycache__
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Cấu hình & API Keys
+.env
+credentials.json
+token.json
+
+# Cơ sở dữ liệu nội bộ & Trí nhớ AI
+long_term_memory.json
+local_faiss_index/
+chat_histories/
+*.sqlite3
+
+# File tài liệu RAG upload tạm thời
+temp/
+*.pdf
+*.docx
+*.txt
+
+# Streamlit cache
+.streamlit/
