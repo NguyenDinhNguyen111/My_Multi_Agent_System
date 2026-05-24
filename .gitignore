@@ -21,7 +21,6 @@ chat_histories/
 temp/
 *.pdf
 *.docx
-*.txt
 
 # Streamlit cache
 .streamlit/

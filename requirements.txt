@@ -1,0 +1,13 @@
+google-api-python-client
+google-auth-oauthlib
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+langgraph
+pypdf
+docx2txt
+faiss-cpu
+python-dotenv
+pydantic
+streamlit
